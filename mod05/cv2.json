@@ -1,0 +1,7 @@
+{"name": "Crystal",
+ "places_lived": ["Taiwan", "Taichung"],
+ "pet": null,
+ "siblings": [{"name": "Alex", "age": 35, "pets": ["Orange"]},
+              {"name": "Ma", "age": 50,
+               "pets": ["D", "E"]}]
+}
